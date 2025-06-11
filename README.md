@@ -1,1 +1,1 @@
-# snake-game-bby-RGR
+# snake-game-by-RGR
